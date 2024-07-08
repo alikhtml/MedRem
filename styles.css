@@ -2,6 +2,8 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f3f4f6;
+    background: url('https://get.wallhere.com/photo/neon-abstract-blue-technology-DNA-light-line-energy-graphics-2560x1440-px-computer-wallpaper-font-product-eyewear-marine-biology-organism-azure-electric-blue-product-design-transparency-and-translucency-775996.jpg') no-repeat center center fixed;
+    background-size: cover;
     color: #333;
     margin: 0;
     padding: 20px;
